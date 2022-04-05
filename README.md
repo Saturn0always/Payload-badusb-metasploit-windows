@@ -17,7 +17,7 @@
 > ## Tuto🕹️ ##
 For badusb: Install arduino, select arduino leonardo and exploit.
 
-For digispark: go to link and paste the text in the file other.
+For digispark: go to link and paste the text in the file "other".
 
 ⚠️did not forget to modify "link" by a github download link.⚠️
 
