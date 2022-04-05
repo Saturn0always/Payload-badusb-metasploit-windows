@@ -22,3 +22,14 @@ For digispark: go to https://dukweeno.github.io/Duckuino/ and paste the text in 
 ⚠️did not forget to modify "link" by a github download link.⚠️
 
 how to do ? create a new directory in github paste your file "payload.exe" publish. Then right click on your payload copy the link then paste it in "link"
+
+
+ $$$$$$\             $$\                                   
+$$  __$$\            $$ |                                  
+"$$ /  \__| $$$$$$\ $$$$$$\   $$\   $$\  $$$$$$\  $$$$$$$\  
+\$$$$$$\   \____$$\\_$$  _|  $$ |  $$ |$$  __$$\ $$  __$$\ 
+ \____$$\  $$$$$$$ | $$ |    $$ |  $$ |$$ |  \__|$$ |  $$ |
+$$\   $$ |$$  __$$ | $$ |$$\ $$ |  $$ |$$ |      $$ |  $$ |
+\$$$$$$  |\$$$$$$$ | \$$$$  |\$$$$$$  |$$ |      $$ |  $$ |
+ \______/  \_______|  \____/  \______/ \__|      \__|  \__|
+                                                         
